@@ -1,0 +1,1 @@
+print(" this is comment section") # hash is used to comment, compiler will not come to read and will not show 
